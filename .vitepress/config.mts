@@ -22,7 +22,7 @@ export default defineConfig({
       {
         text: '开始',
         items: [
-          { text: '架构说明', link: '/markdown-examples' },
+          { text: '架构说明', link: '/file-readme' },
           { text: 'ItemView', link: '/itemview' },
           { text: '服务ecs', link: '/server-ecs' },
           { text: '服务实体', link: '/server-ecs-entity' },
