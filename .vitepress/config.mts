@@ -23,6 +23,7 @@ export default defineConfig({
         text: '开始',
         items: [
           { text: '架构说明', link: '/markdown-examples' },
+          { text: 'ItemView', link: '/itemview' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
