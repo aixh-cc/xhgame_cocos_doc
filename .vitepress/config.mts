@@ -26,6 +26,7 @@ export default defineConfig({
           { text: 'ItemView', link: '/itemview' },
           { text: '服务ecs', link: '/server-ecs' },
           { text: '服务实体', link: '/server-ecs-entity' },
+          { text: 'table表格配置项', link: '/table' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
