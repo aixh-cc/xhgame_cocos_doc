@@ -24,6 +24,7 @@ export default defineConfig({
         items: [
           { text: '架构说明', link: '/file-readme' },
           { text: 'ItemView', link: '/itemview' },
+          { text: 'UiView', link: '/uiview' },
           { text: '服务ecs', link: '/server-ecs' },
           { text: '服务实体', link: '/server-ecs-entity' },
           { text: 'table表格配置项', link: '/table' },
