@@ -260,7 +260,7 @@ export interface IBattleViewVM {
 ```
 
 ### 5.3 使用视图
-
+>tips @todo ,待实现
 ```typescript
 // 获取视图并设置数据
 let battleView = xhgame.gui.getView('BattleView')

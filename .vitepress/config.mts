@@ -23,12 +23,14 @@ export default defineConfig({
         text: '开始',
         items: [
           { text: '架构说明', link: '/file-readme' },
+          { text: '思维导图', link: '/framework-architecture-mindmap' },
+          { text: '快速入门', link: '/framework-usage' },
           { text: 'ItemView', link: '/itemview' },
           { text: 'UiView', link: '/uiview' },
           { text: '服务ecs', link: '/server-ecs' },
           { text: '服务实体', link: '/server-ecs-entity' },
           { text: 'table表格配置项', link: '/table' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Runtime API Examples', link: '/api-examples' },
         ]
       }
     ],
